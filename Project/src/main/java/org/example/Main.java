@@ -4,7 +4,10 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
-public void Greeting() {
-	return "Hello my name is Anthony.";
-}
+    public String Greeting() {
+        return "Hello my name is Anthony.";
+    }
+
+    
+
 }
